@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #4189EB;
+  color: #161717;
 }
 a:hover {
   color: #19CDE2;
@@ -100,7 +100,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 50%;
   text-align: left;
-  background: #434a52;
+  background: #161717;
   border-top: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -116,7 +116,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #434a52 url('images/portfolio.jpg') no-repeat center;
+  background: #161717 url('images/portfolio.jpg') no-repeat center;
   background-size: cover;
   border-top: 4px solid #ccc;
   border-radius: 6px;
@@ -128,7 +128,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #434a52 url('images/contact.jpg') no-repeat center;
+  background: #161717 url('images/contact.jpg') no-repeat center;
   background-size: cover;
   border-top: 4px solid #ccc;
   border-radius: 6px;
