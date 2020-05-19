@@ -93,15 +93,15 @@ header .profile-image:hover {
 }
 
 .contact {
-  background: url('images/workspace.jpg')
+  background: url('images/workspace.jpg') no-repeat top center;
 }
 .card {
   margin: 30px;
-  padding: 20px 40px 40px;
+  padding: 18% 24%;
   max-width: 50%;
   text-align: left;
   background: #24262A;
-  border-bottom: 4px solid #ccc;
+  border-top: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
 }
@@ -113,15 +113,28 @@ header .profile-image:hover {
 
 .experience-card {
 	margin: 30px;
-  padding: 20px 40px 40px;
+  padding: 18% 24%;
   max-width: 500px;
   text-align: left;
-  background: #24262A;
-  border-bottom: 4px solid #ccc;
+  background: #24262A url('images/portfolio.jpg') no-repeat center;
+  background-size: cover;
+  border-top: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
 }
 
+.contact-card {
+	margin: 30px;
+  padding: 18% 24%;
+  max-width: 500px;
+  text-align: left;
+  background: #24262A url('images/contact.jpg') no-repeat center;
+  background-size: cover;
+  border-top: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+
+}
 ul.skills {
   padding: 0;
   text-align: center;
