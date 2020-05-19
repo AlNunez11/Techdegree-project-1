@@ -97,10 +97,10 @@ header .profile-image:hover {
 }
 .card {
   margin: 30px;
-  padding: 18% 24%;
+  padding: 20px 40px 40px;
   max-width: 50%;
   text-align: left;
-  background: #24262A;
+  background: #434a52;
   border-top: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
@@ -113,10 +113,10 @@ header .profile-image:hover {
 
 .experience-card {
 	margin: 30px;
-  padding: 18% 24%;
+  padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #24262A url('images/portfolio.jpg') no-repeat center;
+  background: #434a52 url('images/portfolio.jpg') no-repeat center;
   background-size: cover;
   border-top: 4px solid #ccc;
   border-radius: 6px;
@@ -125,10 +125,10 @@ header .profile-image:hover {
 
 .contact-card {
 	margin: 30px;
-  padding: 18% 24%;
+  padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #24262A url('images/contact.jpg') no-repeat center;
+  background: #434a52 url('images/contact.jpg') no-repeat center;
   background-size: cover;
   border-top: 4px solid #ccc;
   border-radius: 6px;
