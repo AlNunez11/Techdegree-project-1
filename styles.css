@@ -63,12 +63,12 @@ a:hover {
 header {
   text-align: center;
   
-  background: linear-gradient(0deg, #464A51, transparent),
-              url('images/boston.jpg') no-repeat top center ;
+  background:url('images/boston.jpg') no-repeat top center ;
   
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border-bottom: 4px solid #ccc;
 }
 header {
   line-height: 1.5;
@@ -85,9 +85,6 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(10deg);
 }
 
-.t-border {
-  border-top: 2px solid #dfe2e6;
-}
 .tag {
   background-color: #efefef;
   color: black;
@@ -101,13 +98,11 @@ header .profile-image:hover {
   color: whitesmoke;
 }
 .experience {
-  background: linear-gradient(0deg, #464A51, transparent),
-              url('images/computer-desk.jpg') no-repeat top center ;
+  background: url('images/computer-desk.jpg') no-repeat top center ;
 }
 
 .contact {
-  background: linear-gradient(0deg, #464A51, transparent),
-              url('images/workspace.jpg') no-repeat top center;
+  background: url('images/workspace.jpg') no-repeat top center;
 }
 .card {
   margin: 30px;
